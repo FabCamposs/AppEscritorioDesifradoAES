@@ -1,0 +1,12 @@
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\SoluciónCifrado\DLLCifrado\bin\Debug\DLLCifrado.dll
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\SoluciónCifrado\DLLCifrado\bin\Debug\DLLCifrado.pdb
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\SoluciónCifrado\DLLCifrado\obj\Debug\DLLCifrado.csprojAssemblyReference.cache
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\SoluciónCifrado\DLLCifrado\obj\Debug\DLLCifrado.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\SoluciónCifrado\DLLCifrado\obj\Debug\DLLCifrado.dll
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\SoluciónCifrado\DLLCifrado\obj\Debug\DLLCifrado.pdb
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\SoluciónCifrado\DLLCifrado\bin\Debug\DLLCifrado.dll
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\SoluciónCifrado\DLLCifrado\bin\Debug\DLLCifrado.pdb
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\SoluciónCifrado\DLLCifrado\obj\Debug\DLLCifrado.csprojAssemblyReference.cache
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\SoluciónCifrado\DLLCifrado\obj\Debug\DLLCifrado.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\SoluciónCifrado\DLLCifrado\obj\Debug\DLLCifrado.dll
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\SoluciónCifrado\DLLCifrado\obj\Debug\DLLCifrado.pdb
